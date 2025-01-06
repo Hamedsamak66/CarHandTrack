@@ -118,6 +118,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
----
 
-The README now provides a clear and concise overview of your project, focusing on hand-tracking features and gameplay. This foundational documentation is crucial for both user engagement and potential contributions. Adjust and customize sections as per your evolving project details.
